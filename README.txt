@@ -1,0 +1,2 @@
+ECG Identifier | MATLAB
+Filter raw electrocardiograms and build a characteristic array based on their harmonics (decompose signal with FFT, extract amplitude/phase) and match the input heartbeat with database entries by Euclidean norm.
